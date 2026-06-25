@@ -20,6 +20,7 @@ Also rescues malformed URLs from your recon tool output, because apparently `kat
 - Chromium, specifically at `/usr/bin/chromium`, unless you tell it otherwise like an adult
 - A reconftw workspace you generated at some point and then immediately forgot the structure of
 - Time. A lot of time. This is not a fast script. This is the opposite of a fast script.
+- I made it that way on purpose because my router is shite and crashed my whole home network the first time I ran this. 
 
 ---
 
